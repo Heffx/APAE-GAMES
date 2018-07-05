@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: e2c4050a232165d42be78d16e79b9883
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arrows 2
+    100002: arrows1
+    100004: b1 der
+    100006: b1 izq
+    100008: b2 der
+    100010: b2 izq
+    100012: back
+    100014: biped
+    100016: Bone.004_L.004
+    100018: Bone.004_L.006
+    100020: Bone.004_L.006_end
+    100022: Bone.004_R.004
+    100024: Bone.004_R.006
+    100026: Bone.004_R.006_end
+    100028: Bone.009
+    100030: Bone.012
+    100032: Camara
+    100034: Camera
+    100036: //RootNode
+    100038: d1 der
+    100040: d1 der_end
+    100042: d1 izq
+    100044: d1 izq_end
+    100046: Dummy
+    100048: f der
+    100050: f der_end
+    100052: f izq
+    100054: f izq_end
+    100056: h der
+    100058: h izq
+    100060: head
+    100062: head_end
+    100064: homb der
+    100066: homb izq
+    100068: ik foot der
+    100070: ik foot der_end
+    100072: ik foot izq
+    100074: ik foot izq_end
+    100076: ik pelvis
+    100078: Lamp
+    100080: move master
+    100082: neck
+    100084: Objetivo
+    100086: p1 der
+    100088: p1 izq
+    100090: p2 der
+    100092: p2 izq
+    100094: pech
+    100096: pelvis
+    100098: Rig
+    100100: stomach
+    100102: t der 2
+    100104: t der 2_end
+    100106: t izq 2
+    100108: t izq 2_end
+    400000: Arrows 2
+    400002: arrows1
+    400004: b1 der
+    400006: b1 izq
+    400008: b2 der
+    400010: b2 izq
+    400012: back
+    400014: biped
+    400016: Bone.004_L.004
+    400018: Bone.004_L.006
+    400020: Bone.004_L.006_end
+    400022: Bone.004_R.004
+    400024: Bone.004_R.006
+    400026: Bone.004_R.006_end
+    400028: Bone.009
+    400030: Bone.012
+    400032: Camara
+    400034: Camera
+    400036: //RootNode
+    400038: d1 der
+    400040: d1 der_end
+    400042: d1 izq
+    400044: d1 izq_end
+    400046: Dummy
+    400048: f der
+    400050: f der_end
+    400052: f izq
+    400054: f izq_end
+    400056: h der
+    400058: h izq
+    400060: head
+    400062: head_end
+    400064: homb der
+    400066: homb izq
+    400068: ik foot der
+    400070: ik foot der_end
+    400072: ik foot izq
+    400074: ik foot izq_end
+    400076: ik pelvis
+    400078: Lamp
+    400080: move master
+    400082: neck
+    400084: Objetivo
+    400086: p1 der
+    400088: p1 izq
+    400090: p2 der
+    400092: p2 izq
+    400094: pech
+    400096: pelvis
+    400098: Rig
+    400100: stomach
+    400102: t der 2
+    400104: t der 2_end
+    400106: t izq 2
+    400108: t izq 2_end
+    2300000: Arrows 2
+    2300002: arrows1
+    2300004: back
+    2300006: biped
+    2300008: Camara
+    3300000: Arrows 2
+    3300002: arrows1
+    3300004: back
+    3300006: biped
+    3300008: Camara
+    4300000: biped
+    4300002: back
+    4300004: Arrows 2
+    4300006: arrows1
+    4300008: Dummy
+    4300010: Camara
+    9500000: //RootNode
+    13700000: Dummy
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camera
+    second: {fileID: 2100000, guid: f05e4bac89d7d254d8a62ef72be881be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 5947076550670e342aa0436ec971fecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c26fa1296ac460742bb84ad3ca8c6434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b0a754ace9a0de24e9254303a4dfb5f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_166202240
+    second: {fileID: 2100000, guid: 7c633680ee5784745a25bdca3d99c34b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

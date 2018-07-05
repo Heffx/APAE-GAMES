@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 7059b32949227364590d8c4678a623f8
+timeCreated: 1525883096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:curve1
+    100004: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:group10
+    100006: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube43
+    100008: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube44
+    100010: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube45
+    100012: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube46
+    100014: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube47
+    100016: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube48
+    100018: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube49
+    100020: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube50
+    100022: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube51
+    100024: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube52
+    100026: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube53
+    100028: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube54
+    100030: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube55
+    100032: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube56
+    100034: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube57
+    100036: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube58
+    400000: //RootNode
+    400002: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:curve1
+    400004: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:group10
+    400006: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube43
+    400008: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube44
+    400010: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube45
+    400012: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube46
+    400014: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube47
+    400016: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube48
+    400018: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube49
+    400020: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube50
+    400022: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube51
+    400024: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube52
+    400026: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube53
+    400028: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube54
+    400030: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube55
+    400032: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube56
+    400034: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube57
+    400036: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube58
+    2300000: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube43
+    2300002: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube44
+    2300004: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube45
+    2300006: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube46
+    2300008: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube47
+    2300010: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube48
+    2300012: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube49
+    2300014: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube50
+    2300016: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube51
+    2300018: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube52
+    2300020: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube53
+    2300022: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube54
+    2300024: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube55
+    2300026: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube56
+    2300028: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube57
+    2300030: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube58
+    3300000: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube43
+    3300002: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube44
+    3300004: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube45
+    3300006: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube46
+    3300008: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube47
+    3300010: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube48
+    3300012: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube49
+    3300014: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube50
+    3300016: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube51
+    3300018: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube52
+    3300020: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube53
+    3300022: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube54
+    3300024: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube55
+    3300026: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube56
+    3300028: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube57
+    3300030: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube58
+    4300000: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube44
+    4300002: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube45
+    4300004: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube46
+    4300006: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube47
+    4300008: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube48
+    4300010: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube49
+    4300012: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube50
+    4300014: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube51
+    4300016: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube52
+    4300018: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube53
+    4300020: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube54
+    4300022: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube55
+    4300024: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube56
+    4300026: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube57
+    4300028: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube58
+    4300030: HIGH_POLY:HAMBURGUER:hamburgueseriaBackup1:pCube43
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Jogo da Alimenta\xE7\xE3o/Assets/scenes/B_Intru\xE7\xE3o 3.unity"
+  isLoaded: 1
+  isActive: 1

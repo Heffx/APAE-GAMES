@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 7caf76026dde8db4f8870df5a51330c0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cute Stitch
+  fontNames:
+  - Cute Stitch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c5f31c04961d3e94d86e56bcc3d2085e, type: 3}
+  - {fileID: 12800000, guid: 8b669b357cce99a4583dfceac8367fd8, type: 3}
+  - {fileID: 12800000, guid: 238e23a5d5bc0364297b8543179bed07, type: 3}
+  - {fileID: 12800000, guid: 9048ea2af18e4c9439161e32d7223780, type: 3}
+  - {fileID: 12800000, guid: 660af53b093bab549b5d1c687433349b, type: 3}
+  - {fileID: 12800000, guid: 26be3a6e01613a94e9ad13ec26e454a5, type: 3}
+  - {fileID: 12800000, guid: d979412f63a95e847b812ed01a52329f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
