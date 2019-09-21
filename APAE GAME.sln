@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APAE GAME", "Assembly-CSharp.csproj", "{03D42E8D-6F51-E123-3FDA-B3A1B50D7C44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{03D42E8D-6F51-E123-3FDA-B3A1B50D7C44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APAE GAME", "Assembly-CSharp-Editor.csproj", "{FA46C7C2-7AE0-4B49-F673-8EC1CAEA1175}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{FA46C7C2-7AE0-4B49-F673-8EC1CAEA1175}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
